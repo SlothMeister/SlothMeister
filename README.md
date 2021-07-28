@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Lindberg Aka Benji</h1>
 <h3 align="center">A new programming developer from Norway.</h3>
 
-<img src="https://media.tenor.com/images/0ec7e9513e25603536c86bf050fe20e3/tenor.gif" width="500" height="500" />
+<img src="https://media.tenor.com/images/0ec7e9513e25603536c86bf050fe20e3/tenor.gif" width="1000" height="500" />
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slothmeister&label=Profile%20views&color=0e75b6&style=flat" alt="slothmeister" /> </p>
