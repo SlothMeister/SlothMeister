@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **benjamin.lindberg97@hotmail.com**
 
-- ⚡ Fun fact **Did you know there is a old Athenian named Chrysippus which died of his own joke.**
+- ⚡ Fun fact **Did you know there is a old Athenian named Chrysippus who died by laughing at his own joke.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
