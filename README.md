@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Benjamin Lindberg Aka Benji</h1>
-<h3 align="center">A programming developer from Norway.</h3>
+<h3 align="center">A software developer from Norway.</h3>
 
 <img src="https://media.tenor.com/images/0ec7e9513e25603536c86bf050fe20e3/tenor.gif" width="1000" height="500" />
 
