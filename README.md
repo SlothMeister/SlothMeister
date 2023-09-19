@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slothmeister&label=Profile%20views&color=0e75b6&style=flat" alt="slothmeister" /> </p>
 
-- 📫 How to reach me **benjamin.lindberg97@hotmail.com**
 
 - ⚡ Fun fact **Did you know there is a old Athenian named Chrysippus who died by laughing at his own joke.**
 
